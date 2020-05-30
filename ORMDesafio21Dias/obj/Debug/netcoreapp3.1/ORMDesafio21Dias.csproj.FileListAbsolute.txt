@@ -1,0 +1,18 @@
+D:/GitHub Controle/repos/ORMDesafio21Dias/ORMDesafio21Dias/bin/Debug/netcoreapp3.1/ORMDesafio21Dias.deps.json
+D:/GitHub Controle/repos/ORMDesafio21Dias/ORMDesafio21Dias/bin/Debug/netcoreapp3.1/ORMDesafio21Dias.dll
+D:/GitHub Controle/repos/ORMDesafio21Dias/ORMDesafio21Dias/bin/Debug/netcoreapp3.1/ORMDesafio21Dias.pdb
+D:/GitHub Controle/repos/ORMDesafio21Dias/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.csprojAssemblyReference.cache
+D:/GitHub Controle/repos/ORMDesafio21Dias/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.AssemblyInfoInputs.cache
+D:/GitHub Controle/repos/ORMDesafio21Dias/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.AssemblyInfo.cs
+D:/GitHub Controle/repos/ORMDesafio21Dias/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.dll
+D:/GitHub Controle/repos/ORMDesafio21Dias/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.pdb
+D:/GitHub Controle/repos/ORMDesafio21Dias/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.csproj.CoreCompileInputs.cache
+/Users/danilo/Downloads/ORMDesafio21Dias-master/ORMDesafio21Dias/bin/Debug/netcoreapp3.1/ORMDesafio21Dias.deps.json
+/Users/danilo/Downloads/ORMDesafio21Dias-master/ORMDesafio21Dias/bin/Debug/netcoreapp3.1/ORMDesafio21Dias.dll
+/Users/danilo/Downloads/ORMDesafio21Dias-master/ORMDesafio21Dias/bin/Debug/netcoreapp3.1/ORMDesafio21Dias.pdb
+/Users/danilo/Downloads/ORMDesafio21Dias-master/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.csprojAssemblyReference.cache
+/Users/danilo/Downloads/ORMDesafio21Dias-master/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.csproj.CoreCompileInputs.cache
+/Users/danilo/Downloads/ORMDesafio21Dias-master/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.AssemblyInfoInputs.cache
+/Users/danilo/Downloads/ORMDesafio21Dias-master/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.AssemblyInfo.cs
+/Users/danilo/Downloads/ORMDesafio21Dias-master/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.dll
+/Users/danilo/Downloads/ORMDesafio21Dias-master/ORMDesafio21Dias/obj/Debug/netcoreapp3.1/ORMDesafio21Dias.pdb

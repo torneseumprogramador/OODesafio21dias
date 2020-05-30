@@ -1,0 +1,43 @@
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/UsoORMDesafio21Dias.exe
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/UsoORMDesafio21Dias.deps.json
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/UsoORMDesafio21Dias.runtimeconfig.json
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/UsoORMDesafio21Dias.runtimeconfig.dev.json
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/UsoORMDesafio21Dias.dll
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/UsoORMDesafio21Dias.pdb
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/ORMDesafio21Dias.dll
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/ORMDesafio21Dias.pdb
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.csprojAssemblyReference.cache
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.AssemblyInfoInputs.cache
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.AssemblyInfo.cs
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.csproj.CoreCompileInputs.cache
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.csproj.CopyComplete
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.dll
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.pdb
+D:/GitHub Controle/repos/ORMDesafio21Dias/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.genruntimeconfig.cache
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/UsoORMDesafio21Dias.deps.json
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/UsoORMDesafio21Dias.runtimeconfig.json
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/UsoORMDesafio21Dias.runtimeconfig.dev.json
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/UsoORMDesafio21Dias.dll
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/UsoORMDesafio21Dias.pdb
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/ORMDesafio21Dias.dll
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/bin/Debug/netcoreapp3.1/ORMDesafio21Dias.pdb
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.csprojAssemblyReference.cache
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.csproj.CoreCompileInputs.cache
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.AssemblyInfoInputs.cache
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.AssemblyInfo.cs
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.csproj.CopyComplete
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.dll
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.pdb
+/Users/danilo/Downloads/ORMDesafio21Dias-master/UsoORMDesafio21Dias/obj/Debug/netcoreapp3.1/UsoORMDesafio21Dias.genruntimeconfig.cache
